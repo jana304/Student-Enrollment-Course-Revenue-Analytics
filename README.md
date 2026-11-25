@@ -22,11 +22,7 @@ The project transforms educational data into meaningful business insights to sup
 - KPI Reporting
 - Interactive Slicers
 - Business Intelligence
-
-## Dashboard Preview
-
-![Student Enrollment Dashboard](Student_Enrollment_Dashboard.png)
-
+- 
 ## Key Performance Indicators
 
 | Metric | Result |
